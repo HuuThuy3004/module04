@@ -1,0 +1,22 @@
+Đối tượng sẽ gồm: thuộc tính và phương thức
+Bằng việc tổ chức code OOP giúp code gọn gàng , mạch lạc , rõ ràng hơn và cụ thể 
+Có 4 tính chất OOP:
+1. Encapsulation ( tính đóng gói )
+   -> 
+   là tính chất dùng để ngăn chặn các thuộc tính và phương thức khi mà để trạng thái truy 
+   cập là private , trong một đối tượng không bị truy cập hoặc tác động từ bên ngoài không nằm
+   trong đối tượng đó .
+   Access modifier: phạm vi truy cập nó thể hiện bởi tính đóng gói (Encapsulation)
+   Có 3 từ khóa access modifier:
+   + public: là cho phép truy cập từ mọi phía 
+             (nếu không khai báo từ khóa public thì default là public th)
+   + private: chỉ sử dụng bên trong class mới truy cập được , muốn truy cập phải dùng phương thức
+              get() , set()
+   + protected: chỉ sử dụng bên trong class và subclass (khi class khác kế thừa class khác)
+2. Abstraction ( tính trừu tượng )
+   -> 
+3. Inheritance ( tính kế thừa )
+   ->
+4. Polymorphism ( tính đa hình )
+   ->
+
